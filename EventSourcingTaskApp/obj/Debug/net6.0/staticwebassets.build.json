@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JZp1TTjQZeUbXwDaLNgL1Fka142Amlo/Kl3ge0e2Lv0=",
+  "Source": "EventSourcingTaskApp",
+  "BasePath": "_content/EventSourcingTaskApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
